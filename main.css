@@ -2,8 +2,19 @@
   background-color: blue;
   color:'#fff'
 }
+
 body {
 background-color: cadetblue;
+}
+
+.paragraphs{
+  background-color: antiquewhite;
+  padding: 20;
+  margin-top: 20;
+}
+
+.first{
+  color: purple;
 }
 .second {
   color: green;
