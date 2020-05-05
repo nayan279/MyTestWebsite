@@ -5,7 +5,13 @@
 }
 
 body {
-  background-color: tomato;
+  background-color: violet;
+}
+
+h2 {
+  text-align: center;
+  font-size: 3em;
+  color: hotpink;
 }
 
 .paragraphs{
