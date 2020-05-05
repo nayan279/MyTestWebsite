@@ -1,5 +1,6 @@
 #heading {
   background-color: blue;
+  text-align: center;
   color:'#fff'
 }
 
@@ -9,6 +10,7 @@ background-color: cadetblue;
 
 .paragraphs{
   background-color: antiquewhite;
+  text-align: center;
   padding: 20;
   margin-top: 20;
 }
